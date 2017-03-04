@@ -40,6 +40,7 @@ font-family: 'Montserrat', sans-serif; */
 .heading {
     font-family: Axis, sans-serif;
     font-size: 36px;
+    color: #CB5E54;
 }
 
 .introParaContainer {
@@ -55,6 +56,13 @@ font-family: 'Montserrat', sans-serif; */
     font-family: Grotesk, sans-serif;
     font-size: 24px;
     font-weight: Regular;
+}
+
+.introParaX {
+    font-family: Grotesk, sans-serif;
+    font-size: 24px;
+    font-weight: Regular;
+    color: #CB5E54;
 }
 
 .projectbox {
@@ -126,3 +134,13 @@ img.inact{
   transform: scale(1.2); 
 }
 
+.labelX {
+    font-family: Grotesk, sans-serif;
+    font-size: 16px;
+    font-weight: Regular;
+    color: #666666;
+}
+
+.labelX:link {
+    color: #666666;
+}
