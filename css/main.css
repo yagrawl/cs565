@@ -43,6 +43,12 @@ font-family: 'Montserrat', sans-serif; */
     color: #CB5E54;
 }
 
+.headingX {
+    font-family: Axis, sans-serif;
+    font-size: 24px;
+    color: #CB5E54;
+}
+
 .introParaContainer {
     margin: 40px 10% 4% 
 }
